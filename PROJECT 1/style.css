@@ -1,0 +1,33 @@
+html, body {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial;
+  color: blue;
+}
+
+.title{
+  font-size: 200;
+  
+}
+
+canvas {
+  position: absolute;
+  top: 100px;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+input{
+  margin-top: 60px;
+}
+
+
+.sliders{
+  width: 100px;
+  height: 40px;
+  background-color: "#CDCDCD";
+  position: absolute;
+  display: block;
+  top: 80px;
+}
